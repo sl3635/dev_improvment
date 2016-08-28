@@ -4,10 +4,10 @@
 
 ## VIM
 * Download VIM using Brew.
-* Copy the vim_config file to ~/.vimrc.
-* Use Vundle to manage all plugins in VIM.
+* Copy the vim_config file to `~/.vimrc`.
+* Use `Vundle` to manage all plugins in VIM.
 * Install VIM plugins via Vundle.
-* YouCompleteMe needs manual installation.
+* `YouCompleteMe` needs manual installation.
 
 ## Tmux
 * Terminal multiplexer
@@ -15,12 +15,12 @@
 
 ## Iterm2
 * Better terminator for Mac
-* Use Solarized color scheme.
-* Need to download specific fonts for VIM Powerline.
+* Use `Solarized` color scheme.
+* Need to download specific fonts for VIM `Powerline`.
 
 ## PyCharm
 * Great python IDE (Community version is free)
-* Use Solarized color scheme and use Color Tree for syncing color of project tree view and editor.
+* Use `Solarized` color scheme and use `Color Tree` for syncing color of project tree view and editor.
 * Support checking projects from github.
 * Support virtenv
 
@@ -29,4 +29,4 @@
 
 ## LaTex
 * Document preparation system for high quality typesetting
-* Checkout MacTex for writing LaTex on Mac.
+* Check out `MacTex` for writing LaTex on Mac.
