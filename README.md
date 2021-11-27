@@ -5,7 +5,7 @@
 
 ## Oh My Zsh
 * Install ohmyzsh for terminal optimization.
-* Install powerlevel10k theme.
+* Install `powerlevel10k` theme.
 * `p10k configure` to customize. It will ask to install `MesloLGS NF` font.
 * Reconfiugre `MesloLGS NF` in iterm2.
 
