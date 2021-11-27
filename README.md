@@ -1,4 +1,14 @@
 # Dev Tools for Development
+## Iterm2
+* Better terminator for Mac
+* Use `Solarized` color scheme.
+
+## Oh My Zsh
+* Install ohmyzsh for terminal optimization.
+* Install powerlevel10k theme.
+* `p10k configure` to customize. It will ask to install `MesloLGS NF` font.
+* Reconfiugre `MesloLGS NF` in iterm2.
+
 ## Homebrew
 * Use this tool to manage any developing tools installed on Mac.
 
@@ -7,16 +17,10 @@
 * Copy the vim_config file to `~/.vimrc`.
 * Use `Vundle` to manage all plugins in VIM.
 * Install VIM plugins via Vundle.
-* `YouCompleteMe` needs manual installation.
 
 ## Tmux
 * Terminal multiplexer
 * This is extremely useful when running programs via SSH connection.
-
-## Iterm2
-* Better terminator for Mac
-* Use `Solarized` color scheme.
-* Need to download specific fonts for VIM `Powerline`.
 
 ## PyCharm
 * Great python IDE (Community version is free)
