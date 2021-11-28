@@ -13,7 +13,7 @@
 * Use this tool to manage any developing tools installed on Mac.
 
 ## VIM
-* Download VIM using Brew.
+* Download `vim` using Brew.
 * Copy the vim_config file to `~/.vimrc`.
 * Use `Vundle` to manage all plugins in VIM.
 * Install VIM plugins via Vundle.
@@ -34,3 +34,4 @@
 ## LaTex
 * Document preparation system for high quality typesetting
 * Check out `MacTex` for writing LaTex on Mac.
+* Use `TexMaker` as Tex editor.
